@@ -19,6 +19,6 @@ Cons: requires a learning pass to map the maze and record it’s geometry
 | 1 | Bea | Sensor research on the Polpolu 3pi Robot |  |  |  |  |
 |  | Jules  |  |  |  |  |  |
 |  | Rosie  |  |  |  |  |  |
-|  | Will |  |  |  |  |  |
+|  | Will | Chassis design and algorithms |  |  |  |  |
 |  | Ares | Python Coding |  |  |  |  |
 
